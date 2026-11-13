@@ -9,8 +9,7 @@
 -- Ryan Victor — RM565667
 -- João Victor Castelini — RM564115
 -- =====================================================================
--- Pré-requisito: tabelas do script-bd.sql (DDL do repositório Java,
--- com ID_USUARIO e OBSERVACAO em RF_HISTORICO_STATUS).
+-- Pré-requisito: tabelas do RootFix-script-bd.sql.
 --
 -- O que este arquivo cria
 --   1. RF_AUDITORIA_PROBLEMA ............ tabela de auditoria

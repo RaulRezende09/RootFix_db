@@ -1,10 +1,11 @@
 # RootFix · PL/SQL (Banco de Dados)
 
-Scripts para o Oracle, no mesmo usuário em que estão as tabelas do `script-bd.sql`.
+Scripts para o Oracle, no mesmo usuário em que estão as tabelas do `RootFix-script-bd.sql`.
 Rode na ordem, com F5 ("Executar script") no SQL Developer.
 
 | Ordem | Arquivo | O que faz | Pode repetir? |
 |---|---|---|---|
+| 0 | `RootFix-script-bd.sql` | DDL: Criação das tabelas, colunas e inserção das categorias | Não | 
 | 1 | `01-objetos-plsql.sql` | Tabela de auditoria, 2 funções, 2 procedimentos, 2 gatilhos e 2 pacotes | Sim |
 | 2 | `02-carga-dados-teste.sql` | Bloco anônimo com laços: gestores, comunidades, moradores, problemas, apoios, observações e comunicados de teste | Sim (apaga só os dados de teste antes) |
 | 3 | `03-relatorio-comunidades.sql` | Bloco anônimo com cursores: relatório por comunidade | Sim (só lê) |
@@ -38,7 +39,7 @@ Ela fica em Exibir → Saída do DBMS, e lá é preciso clicar no "+" e escolher
 - **Dados de teste:**
   - os usuários de teste usam e-mail `@teste.rootfix.com` e senha `Rootfix@2026`, então também entram no app;
   - exemplos: `morador.ana@teste.rootfix.com` e `gestor.vilamariana@teste.rootfix.com`.
-- **Se rodar o `script-bd.sql` de novo:** ele recria `RF_PROBLEMA`, e os gatilhos somem junto. Depois disso, rode o `01` e o `02` outra vez.
+- **Se rodar o `RootFix-script-bd.sql` de novo:** ele recria `RF_PROBLEMA`, e os gatilhos somem junto. Depois disso, rode o `01` e o `02` outra vez.
 
 ## Códigos de erro
 
