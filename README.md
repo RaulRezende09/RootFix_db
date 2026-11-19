@@ -8,8 +8,8 @@ Grupo **Rooted**
 | Raul Rezende | RM564002 | 2TSDPF |
 | Felipe Furlanetto | RM562766 | 2TSDPF |
 | João Victor Caetano | RM562074 | 2TSDPF |
-| Ryan Victor | RM565667 | 2TSDPF |
-| João Victor Castelini | RM564115 | 2TSDPF |
+| Ryan Vetoriano | RM565667 | 2TSDPF |
+| João Victor Bueno | RM564115 | 2TSDPF |
 
 ---
 
