@@ -2,11 +2,11 @@
 -- RootFix · Banco de Dados · 03 · Relatório por comunidade (bloco anônimo com cursores)
 -- =====================================================================
 -- INTEGRANTES:
--- Raul Rezende — RM564002
--- Felipe Furlanetto — RM562766
--- João Victor Caetano — RM562074
--- Ryan Victor — RM565667
--- João Victor Castelini — RM564115
+--    Raul Rezende — RM564002 — 2TDSPF
+--    Felipe Furlanetto — RM562766 — 2TDSPF
+--    João Victor Caetano — RM562074 — 2TDSPF
+--    Ryan Vetoriano — RM565667 — 2TDSPF
+--    João Victor Bueno — RM564115 — 2TDSPF
 -- =====================================================================
 -- Para cada comunidade: gestor, membros,
 -- problemas por situação(feed, pendente, em andamento, resolvido, arquivado),
