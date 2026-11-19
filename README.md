@@ -371,8 +371,8 @@ Nas consultas do Oracle, o filtro `g.EMAIL LIKE '%@teste.rootfix.com'` (no arqui
 ## 9. Declaração de uso de IA generativa
 
 O grupo usou o **Claude (Anthropic)** como apoio:
-- para rascunhar e revisar os scripts PL/SQL e MongoDB;
+- para revisar os scripts PL/SQL e MongoDB;
 - para alinhar o modelo de dados com as APIs Java e .NET;
-- para montar o guia de execução e este README.
+- para montar o guia de execução e esta README.
 
 Todos os scripts foram revisados e executados pelo grupo no Oracle da FIAP e no MongoDB Atlas, e as evidências acima são dessas execuções. As decisões de regra de negócio e de modelagem são do grupo.
