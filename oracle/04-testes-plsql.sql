@@ -3,11 +3,11 @@
 -- Testes das funções, procedimentos, gatilhos e pacotes (bloco anônimo)
 -- =====================================================================
 -- INTEGRANTES:
--- Raul Rezende — RM564002
--- Felipe Furlanetto — RM562766
--- João Victor Caetano — RM562074
--- Ryan Victor — RM565667
--- João Victor Castelini — RM564115
+--    Raul Rezende — RM564002 — 2TDSPF
+--    Felipe Furlanetto — RM562766 — 2TDSPF
+--    João Victor Caetano — RM562074 — 2TDSPF
+--    Ryan Vetoriano — RM565667 — 2TDSPF
+--    João Victor Bueno — RM564115 — 2TDSPF
 -- =====================================================================
 -- Pré-requisito: 01-objetos-plsql.sql e 02-carga-dados-teste.sql.
 --
